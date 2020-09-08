@@ -16,6 +16,7 @@ git clone https://github.com/underblob/icdsoft-devtools.git
 cd ./my-project
 cp ../icdsoft-devtools/tools .
 cp ../icdsoft-devtools/.envrc.sample .
+cp ../icdsoft-devtools/.gitignore .
 ```
 
 ## Usage
