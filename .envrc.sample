@@ -1,0 +1,6 @@
+export SSH_PRIVATE_KEY=~/.ssh/id_rsa
+export SSH_USER=username
+export SSH_HOST=ssh_host
+
+export REMOTE_DEST=/www/www/htdocs
+export LOCAL_SRC=./dist
