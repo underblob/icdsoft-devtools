@@ -9,13 +9,13 @@
 To see the required programs you need on your local computer for development:
 
 ```sh
-./tools/system_requirements.sh
+./tools/icdsoft/system_requirements.sh
 ```
 
 To install the required prgrams:
 
 ```sh
-./tools/install.sh
+./tools/icdsoft/install.sh
 ```
 
 > ⚠️ `direnv` requires additional configuration in the shell's runtime config. See [https://direnv.net/docs/hook.html](https://direnv.net/docs/hook.html)
@@ -31,11 +31,11 @@ You can upload modified files to your remote web server via SSH key.
 Sync once:
 
 ```sh
-./tools/sync.sh
+./tools/icdsoft/sync.sh
 ```
 
 Sync every file change:
 
 ```sh
-./tools/sync_watch.sh
+./tools/icdsoft/sync_watch.sh
 ```

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cd "${0%/*}"
-source ./lib/color.sh
+source ../lib/color.sh
 color_init
 
 color "${BLUE}Installing the following programs on this computer:"

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cd "${0%/*}"
-source ./lib/color.sh
+source ../lib/color.sh
 
 PROGRAM=$1
 case $PROGRAM in
