@@ -9,14 +9,12 @@ bloated [`rsync` push](https://linux.die.net/man/1/rsync). 🤓
 
 ## Install
 
-To use in your project:
+To use the tools, install in your project:
 
 ```
 git clone https://github.com/underblob/icdsoft-devtools.git
-cd ./my-project
-cp -r ../icdsoft-devtools/tools .
-cp ../icdsoft-devtools/.envrc.sample .
-cp ../icdsoft-devtools/.gitignore .
+cd ./icdsoft-devtools
+./install.sh ../my-project-to-add-icdsoft-devtools
 ```
 
 ## Usage
