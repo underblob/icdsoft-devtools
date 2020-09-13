@@ -19,4 +19,4 @@ cd ./icdsoft-devtools
 
 ## Usage
 
-See [`tools/README.md`](./tools/README.md) for details.
+See [`tools/icdsoft/README.md`](./tools/icdsoft/README.md) for details.
