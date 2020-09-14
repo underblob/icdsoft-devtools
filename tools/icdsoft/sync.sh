@@ -1,6 +1,6 @@
 #! /bin/bash
 
-source ../tools/lib/color.sh
+source ./tools/lib/color.sh
 color_init
 
 color "${BLUE}SYNC"

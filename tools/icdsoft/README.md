@@ -12,7 +12,7 @@ To see the required programs you need on your local computer for development:
 ./tools/icdsoft/system_requirements.sh
 ```
 
-To install the required prgrams:
+To install the required programs:
 
 ```sh
 ./tools/icdsoft/install.sh
