@@ -25,7 +25,10 @@ To install the required programs:
 You can upload modified files to your remote web server via SSH key.
 
 - Register SSH key with host: [SureSupport docs](https://tickets.suresupport.com/faq/category-314/en/ssh)
-- Create `.envrc` file from `.envrc.sample` if one does not exist.
+- Create `.envrc` file:
+  ```sh
+  ./tools/icdsoft/envrc.sh
+  ```
 - Update the secrets in `.envrc` with correct values.
 
 Sync once:
