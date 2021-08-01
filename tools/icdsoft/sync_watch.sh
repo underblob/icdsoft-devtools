@@ -3,6 +3,8 @@
 source ./tools/lib/color.sh
 color_init
 
+./tools/icdsoft/sync.sh
+
 color "${BLUE}Watching for changes..."
 color
 
